@@ -19,7 +19,7 @@ request_url = "https://aip.baidubce.com/rest/2.0/face/v3/detect"
 from aip import AipFace
 
 # 你的appId, apiKey, secretKey
-af = AipFace('15421519', 'PHDonkO98sOjx21KCYamEUvp', 'nKskSgr1jqpXQVXCR8g05CilBSYjMk4a')
+af = AipFace('', '', '')
 
 dir = '表情包/'
 
